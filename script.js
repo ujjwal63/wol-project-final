@@ -4,13 +4,13 @@ const progate = document.getElementById("progate")
 
 
 linked.addEventListener("click", (() => {
-    alert("https://www.linkedin.com/in/gupta--ujjwal/")
+    alert("https://www.linkedin.com/in/gupta--ujjwal/") //lindkin profile link
 }))
 
 git.addEventListener("click", (() => {
-    alert("https://github.com/ujjwal63")
+    alert("https://github.com/ujjwal63")     //github profile link
 }))
 
 progate.addEventListener("click", (() => {
-    alert("https://progate.com")
+    alert("https://progate.com")         //progate link
 }))
