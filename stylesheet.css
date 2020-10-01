@@ -1,12 +1,12 @@
 body {
-  background-image: url("https://www.wallpaperflare.com/static/448/699/737/abstract-digital-art-3d-abstract-lines-wallpaper-preview.jpg");
+  background-image: url("https://images.pexels.com/photos/1629236/pexels-photo-1629236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-size: 100% 100%;
 }
 .lad {
-  color: grey;
+  color: #ffffff;
   text-shadow: 3px 3px black;
   width: 100%;
   padding-top: 300px;
